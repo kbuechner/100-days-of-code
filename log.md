@@ -5,9 +5,10 @@
 
 **Today's Progress**: started 2die2sleep which uses d3.js to represent all the grotesque ways Shakespearean characters die
 
-**Thoughts:** <!-- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+**Thoughts:** Built out the models for the DB of plays/victims/perpetrators, still trying to figure out every nec. field but believe I have a good foundation. Not even touching front end or routes atm, totally focused on models and seed file. I admit I've been spending a LOT of time researching the content to put in the seed, but I really don't think I'll stay motivated if I don't have a really solid body of research. I just need to make sure I don't use it as a way to avoid actual coding
 
-**Link to work:** <!-- [Calculator App](http://www.example.com) -->
+**Link to work:** [2die2sleep](https://github.com/kbuechner/2die2sleep)
+<!-- [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
