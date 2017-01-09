@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 8, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: started 2die2sleep which uses d3.js to represent all the grotesque ways Shakespearean characters die
 
