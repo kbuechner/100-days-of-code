@@ -21,3 +21,10 @@ Finish the models tomorrow. Thursday: Let's Get Express On (ughhhh)
 
 **Link to work:** [2die2sleep](https://github.com/kbuechner/2die2sleep)
 
+### Day 3: January 12, 2017
+
+**Today's Progress**: finished building models for 2die2sleep
+
+**Thoughts:** Skipped Jan 11. Built out the rest of the models, started a seed for the database. More research. Still kind of dreading the middleware. Tomorrow! (and tomorrow and tomorrow) (Shakespeare Joke). 
+
+**Link to work:** [2die2sleep](https://github.com/kbuechner/2die2sleep)
